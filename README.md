@@ -1,4 +1,9 @@
-### Hi there 👋
+# HTMonkeyG's Github HomePage
+💬 一只玩MC的编程猴<br>
+💬 --A monkey loves programming & Minecraft<br>
+📫 全平台同名: **HTMonkeyG**<br>
+📫 --Bilibili: **HTMonkeyG**<br>
+
 
 <!--
 **HTMonkeyG/HTMonkeyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

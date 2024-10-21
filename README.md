@@ -2,7 +2,9 @@
 💬 一只玩MC的编程猴<br>
 💬 --A monkey loves programming & Minecraft<br>
 📫 全平台同名: **HTMonkeyG**<br>
-📫 --Bilibili: **HTMonkeyG**<br>
+📫 --Bilibili: **HTMonkeyG**
+
+🤔 软件交流Q群（提供开发进度公示及bug实时反馈）：273576833
 
 
 <!--

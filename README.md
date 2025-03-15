@@ -1,12 +1,12 @@
 # HTMonkeyG's Github HomePage
-💬 一只玩MC的编程猴<br>
-💬 --A monkey loves programming & Minecraft<br>
-📫 全平台同名: **HTMonkeyG**<br>
-📫 --Bilibili: **HTMonkeyG**
+💬 一只玩MC的编程猴\
+💬 --A monkey loves programming.
 
-🤔 软件交流Q群（提供开发进度公示及bug实时反馈）：273576833
+📫 E-mail: htmonkeyg@qq.com
 
+👯 软件交流Q群（提供开发进度公示及bug实时反馈）：273576833
 
+[![BiliBili](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/386346232)
 <!--
 **HTMonkeyG/HTMonkeyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
